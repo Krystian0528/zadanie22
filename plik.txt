@@ -1,4 +1,4 @@
 main 09:26 19.01.2024	KŚ:Pierwsza linia kodu.
 main 09:31 19.01.2024   KJ:Druga linia kodu. 
 feature 09:33 19.01.2024 KJ:Trzecia linia kodu.
-feature 09:41 19.01.2024 KJ:Czwarta linia kodu. 
+feature 09:41 19.01.2024 KJ:piata linia kodu. 
